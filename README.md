@@ -1,0 +1,3 @@
+# Customer-Segmentation
+## Overview
+This take-home assignment identifies 3 main customer segments: Low Value-Low Frequency, High Value-Low Frequency, and Low Value-High Frequency Users. Furthermore, sub-segmentation and prioritization of the clusters are based on recency data. The variable or feature selection process is done by both business and data-driven methods including PCA. The clusters generated are evaluated with statistical analysis. In following up with this, the recommendation for marketing reactivation campaigns is provided based on recency and characteristics of different segments in the data.
