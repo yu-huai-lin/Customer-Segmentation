@@ -75,3 +75,31 @@ The following techniques are used:
 
 See the medium blog on why some features are not selected as part of the clustering
 
+## Libraries used
+
+matplotlib          3.4.3
+matplotlib-inline   0.1.2
+numpy               1.21.4
+pandas              1.3.2
+pip                 22.1
+plotly              5.2.1
+scikit-learn        1.1.3
+seaborn             0.11.2
+sklearn             0.0
+scipy               1.7.1
+regex               2022.10.31
+imbalanced-learn    0.9.1
+
+## File Description
+`requirement.txt` - A list of libraries used
+`customer_segmentation.ipynb` - Main analysis notebook, incluidng model training and analysis
+`dataset.csv` - User level food delivery data set https://www.kaggle.com/datasets/asaumya/customer-order-data
+
+## Acknowledgements
+
+Bhardwaj, A. (2020, May). Silhouette Coefficient Validating clustering techniques. Towardsdatascience - Medium. https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c
+
+Dunn, K. (n.d.). 6.5.2. Geometric explanation of PCA. Process Improvement Using Data. https://learnche.org/pid/latent-variable-modelling/principal-component-analysis/geometric-explanation-of-pca
+
+
+
