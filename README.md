@@ -36,9 +36,9 @@ See the notebook for in-depth EDA, visualizatation and statistical data analysis
 The following techniques are used:
 - Missing Value Imputation
 - Outlier Removal
+- Scaling/Centering
 
 ### Result, Justification
 
 See the medium blog on why some features are not selected as part of the clustering
 
-- Scaling/Centering
