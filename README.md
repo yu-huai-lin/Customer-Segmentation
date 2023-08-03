@@ -77,18 +77,18 @@ See the medium blog on why some features are not selected as part of the cluster
 
 ## Libraries used
 
-matplotlib          3.4.3
-matplotlib-inline   0.1.2
-numpy               1.21.4
-pandas              1.3.2
-pip                 22.1
-plotly              5.2.1
-scikit-learn        1.1.3
-seaborn             0.11.2
-sklearn             0.0
-scipy               1.7.1
-regex               2022.10.31
-imbalanced-learn    0.9.1
+- matplotlib          3.4.3
+- matplotlib-inline   0.1.2
+- numpy               1.21.4
+- pandas              1.3.2
+- pip                 22.1
+- plotly              5.2.1
+- scikit-learn        1.1.3
+- seaborn             0.11.2
+- sklearn             0.0
+- scipy               1.7.1
+- regex               2022.10.31
+- imbalanced-learn    0.9.1
 
 ## File Description
 `requirement.txt` - A list of libraries used
