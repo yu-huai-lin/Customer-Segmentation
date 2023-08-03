@@ -1,6 +1,10 @@
 # Udacity Data Scientist Capstone Project
 
 Deliverables: Write-up (Blog) and GitHub Reporsitory
+## Project Delivery
+
+- Write-up (Medium Articale) https://medium.com/@yuhuailin0323/customer-segmentation-with-k-means-clustering-bcabee0fd234
+- GitHub Repository with notebook
 
 ## Project Definiton
 
@@ -19,3 +23,22 @@ A food delivery company X would like to find pattenrs and insights in the user d
 Public Customer Order Data
 https://www.kaggle.com/datasets/asaumya/customer-order-data
 
+### Metrics
+
+In this analysis, Silhouette Coefficient and statistical analysis is used to evaluate the performance of the clusters generated. Elbow method is used to decide the number of clusters.
+
+### Analysis
+
+See the notebook for in-depth EDA, visualizatation and statistical data analysis
+
+### Data Preprocessing
+
+The following techniques are used:
+- Missing Value Imputation
+- Outlier Removal
+
+### Result, Justification
+
+See the medium blog on why some features are not selected as part of the clustering
+
+- Scaling/Centering
