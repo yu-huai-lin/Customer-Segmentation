@@ -3,7 +3,7 @@
 Deliverables: Write-up (Blog) and GitHub Reporsitory
 ## Project Delivery
 
-- Write-up (Medium Articale) https://medium.com/@yuhuailin0323/customer-segmentation-with-k-means-clustering-bcabee0fd234
+- Write-up (Medium Articale) https://medium.com/@yuhuailin0323/customer-segmentation-with-k-means-clustering-86118368efaf
 - GitHub Repository with notebook
 
 ## Project Definiton
